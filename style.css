@@ -16,3 +16,4 @@ Version:        	1.0.1
 /* =Imports custom.css from sass
 -------------------------------------------------------------- */
 @import url("css/app.css");
+@import url("css/social-footer.css");
